@@ -1,0 +1,1170 @@
+
+@media screen and (max-width: 1199px){
+.finance-content h1 .box {
+    position: absolute;
+    bottom: 0;
+    left: 30%;
+}
+.ecommerce-section .tab-menu ul {
+     gap: 1.125vw;
+   
+}
+ 
+.ecommerce-section .tab-menu ul li a {
+    font-size: 1.542vw;
+    padding: 2.563vw 0vw;
+}
+.stay-section .stay-right .form-group .form-control {
+     height: 5.604vw;
+     font-size: 2.042vw;
+    
+}
+.form-group-select .input-group select{
+    width: 5.125vw;
+    height: 5.604vw;  
+    font-size: 2.042vw;
+}
+.form-group-select .form-group-input {
+    width: 80%;
+  
+}
+.form-group-select .form-group-input::before {
+     width: 0.2vw;
+    height: 80%;
+     top: 0.56vw;
+    left: 0.365vw;
+}
+.need-box h5 {
+     font-size: 1.938vw;
+   
+}
+.ecommerce-section .fixed-top {
+     top: 9.256vw;
+    
+}
+.need-box .number-box h3 {
+     font-size: 10.813vw;
+    
+}
+.need-box .number-box h3 span {
+     font-size: 3.25vw;
+     
+}
+.buy-section .buy-left .buy-video {
+    width: 100%;
+    border-radius: 2.354vw;
+    min-height: 33.854vw;
+    overflow: hidden;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    line-height: 0;
+
+}
+.helps-you-section .helps-you-right {
+    width: 34.042vw;
+}
+.club-section .club-right {
+    width: 28.625vw;
+}
+.club-section .club-row {
+    display: flex;
+    gap: 7.417vw;
+}
+
+.club-left-bottom .club-left-box .club-left-list {
+    width: 4.604vw;
+    height: 4.604vw;
+     
+}
+.club-team .dot-large {
+    width: 35.208vw;
+    height: 35.208vw;
+    position: absolute;
+    left: -2%;
+    top: 32%;
+    
+    filter: blur(14px);
+    opacity: 0.4;
+    z-index: 0;
+}
+.club-left-bottom li {
+    width: 47%;
+}
+.club-section .club-left {
+    width: 78.479vw;
+    display: flex;
+    flex-direction: column;
+    gap: 0.833vw;
+}
+.club-section .club-right {
+    width: 31.625vw;
+}
+.team-section .slick-slide {
+    padding-top: 3.438vw;
+     padding-bottom: 6.438vw;
+}
+.finance-banner .finance-content {
+    width: 67%;
+}
+.stay-deligence-section .stay-right {
+    width: 50%;
+    padding-right: 0;
+}
+.modules-section .modules-left ol li{
+      font-size: 1.542vw;  
+}
+
+.modules-section .modules-left ol {
+    padding-left: 2.302vw;
+    margin-top: 1.781vw;
+}
+.included-answer .included-box {
+    flex-direction: column;
+}
+.modules-scroll {
+    height: 48.667vw;
+  
+}
+.frequently-section ul li h3::before {
+   font-size: 2.302vw;
+}
+.modules-section .modules-left .included-answer .answer span {
+    font-size: 1.433vw;
+    
+}
+.client-section .client-right .client-slider .slick-list {
+    padding: 0px !important;
+} 
+.breadcrumb li a {
+     font-size: 1.538vw;
+}
+.breadcrumb li{
+    font-size: 1.538vw;
+}
+.breadcrumb {
+      gap: 3.083vw;
+    
+}
+.breadcrumb li::before {
+    height: 0.925vw;
+    width: 0.925vw;
+     
+    
+}
+.breadcrumb {
+    position: absolute;
+    top: 12.854vw;
+    left: 5.208vw;
+
+}
+.helps-you-section .helps-you-right {
+    width: 45.042vw;
+}
+.community-tab-section ul li {
+     width: 14vw;
+   
+}
+.community-tab-section ul li a {
+     font-size: 1.95vw;
+      
+}
+.community-tab-section ul li span {
+ left: 5.031vw;
+ 
+}
+.meet-section .slick-slide{
+    padding-left: 0vw;
+    padding-right: 0vw;
+}
+.meet-section {
+     padding-bottom: 7.646vw;
+    
+}
+.meet-section .slick-prev, .meet-section .slick-next {
+    bottom: -8.323vw;
+    width: 3.604vw;
+height: 3.604vw;
+}
+.meet-section .meet-slider-left {
+    width: 31.646vw;
+}
+
+.meet-section .meet-slider-right {
+    width: 52.271vw;
+}
+.community-tab-section .tab-community {
+      padding: 3.125vw 3.167vw;
+}
+.community-tab-section .tab-community .tab-community-row {
+     gap: 4.208vw;
+    
+}
+.meet-section .common-heading span {
+    font-size: 2.25vw;
+     
+}
+.counter-section .counter-box ul li {
+     padding: 0px 2.646vw;
+    
+}
+.blog-listing-banner .blog-listing-form {
+    width: 42.854vw;
+}
+ 
+.blog-listing-form .form-control {
+    width: 100%;
+    height: 4.604vw;
+    font-size: 1.442vw;
+}
+.blog-category-section .blog-category-left ul li a {
+    
+    font-size: 1.542vw;
+    
+}
+.blog-category-section .blog-category-right .page-numbers {
+    
+    font-size: 1.942vw;
+     
+}
+.blog-category-section .blog-category-left {
+    width: 26.271vw;
+     gap: 3.604vw;
+}
+.common-top {
+     padding-bottom: 5.604vw;
+} 
+.why-choose-section .why-choose-right {
+    width: 46.292vw;
+}
+.blog-category-section .blog-category-right .page-numbers img {
+    width: 3.083vw;
+}
+.common-heading span {
+    font-size: 1.55vw;
+}
+ 
+.blog-category-section .blog-category-left ul li .list-left .list-icon {
+    width: 6.083vw;
+}
+}
+
+@media screen and (max-width: 1023px){
+    .ecommerce-section .fixed-top {
+        top: 11.256vw;
+    }
+    .client-slider .slick-track {
+        margin-left: -5.771vw;
+    }   
+    .client-section .client-right .slick-next {
+       right: 27.517vw;
+    } 
+    .included-answer .included-box .included-list{
+        width: 100%;
+    }
+    .included-answer .included-box {
+         gap: 1.604vw;
+    }
+    .community-tab-section ul li {
+        width: 14vw;
+    }
+.community-tab-section ul li a {
+     font-size: 1.95vw;
+ 
+}
+.common-heading h1 {
+    font-size: 3.083vw;
+     
+}
+ 
+       
+}
+
+
+@media screen and (max-width: 991px){
+    .ecommerce-section .fixed-top {
+        top: 13.556vw;
+    }
+    .finance-banner .finance-row {
+           gap: 2.813vw;
+    }
+    
+    .finance-banner .finance-img {
+        width: 28%;
+        
+    }    
+.teaching-section {
+    padding: 7.083vw 0px;
+}
+.teaching-finance-section {
+    padding: 7.083vw 0px;
+    padding-bottom: 0.469vw;
+}
+.need-section .slick-prev{
+    left: 45%;
+}
+.need-section .slick-next {
+    right: 45%;
+}
+.stay-deligence-section .stay-right {
+    width: 65%;
+    padding-right: 0;
+}
+.stay-deligence-section .stay-left {
+    width: 37%;
+}
+.stay-deligence-section .stay-right {
+    width: 58%;
+    padding-right: 0;
+}
+.courses-tab-section .tab-courses .tab-courses-row {
+     gap: 4.458vw;
+}
+ 
+.client-section .client-row {
+    display: flex;
+    gap: 5.729vw;
+    align-items: center;
+    flex-direction: column;
+}
+.client-section .client-left{
+    width: 100%;
+}
+.client-section .client-right{
+    width: 100%;
+}
+ 
+.client-slider .slick-track {
+    margin-left: -8.771vw;
+}
+.client-section .client-right .slick-next {
+    right: 2.417vw;
+}
+
+.included-answer .included-box {
+    gap: 0.604vw;
+}
+.client-section .client-row {
+     gap: 1.729vw;
+    
+}
+.slick-list.draggable {
+    padding: 0px !important;
+}
+.client-section .client-right .slick-prev {
+    width: 3.904vw;
+    height: 3.904vw;
+    
+}
+.client-section .client-right .slick-next{
+    width: 3.904vw;
+    height: 3.904vw;  
+}
+.client-card .client-card-box .client-card-img .quote-img {
+    width: 5.604vw;
+}
+.courses-tab-section {
+     padding-bottom: 8.604vw;
+}
+.modules-section {
+      padding-bottom: 4.813vw;
+ 
+}
+.modules-section .modules-right .course-card-bottom .course-card-img {
+    right: 6.396vw;
+     bottom: 3.458vw;  
+ }
+ .breadcrumb li a {
+     font-size: 1.938vw;
+    
+}
+.breadcrumb li{
+    font-size: 1.938vw;
+   
+}
+ 
+ .breadcrumb {
+    position: absolute;
+    top: 14.854vw;
+    left: 5.208vw;
+    gap: 4.083vw;
+}
+.breadcrumb li::before {
+    height: 1.525vw;
+    width: 1.525vw;
+}
+.helps-community-section .helps-you-row {
+    gap: 4.292vw;
+}
+.finance-content h1 {
+    padding-bottom: 15px;
+}
+
+.frequently-section ul li h3::before {
+    font-size: 3.302vw;
+}
+.frequently-section {
+     padding: 5.604vw 0px;
+    
+}
+.counter-section {
+     padding: 4.083vw 0vw;
+     
+}
+.community-tab-section .tab-community .tab-community-content {
+    width: 50%;
+}
+.community-tab-section .tab-community .tab-community-right {
+    width: 48%;
+    
+}
+.helps-you-section .helps-you-right {
+    width: 48.042vw;
+}
+.courses-community .courses-slider-right {
+    width: 52.271vw;
+}
+.courses-community .slick-prev {
+     width: 4.604vw;
+    height: 4.604vw;
+     left: -1.971vw;
+}
+.courses-community .slick-next{
+    width: 4.604vw;
+    height: 4.604vw;
+    background-size: 100%;
+    right: -1.971vw;
+}
+.meet-section .slick-prev, .meet-section .slick-next {
+    bottom: -12.323vw;
+    width: 4.604vw;
+    height: 4.604vw;
+}
+.meet-section .slick-prev, .meet-section .slick-next {
+    bottom: -12.323vw;
+    width: 4.604vw;
+    height: 4.604vw;
+}
+.meet-section .slick-next {
+    right: 42%;
+}
+.meet-section .slick-prev{
+    left: 42%;
+}
+.blog-listing-banner .blog-listing-row {
+     gap: 4.813vw;
+     
+}
+.blog-listing-banner .blog-listing-form {
+    width: 48.854vw;
+}
+.common-heading span {
+    font-size: 1.95vw;
+}
+.blog-category-section .blog-category-right .page-numbers {
+    font-size: 2.942vw;
+    gap: 3.042vw;
+}
+.blog-category-section .blog-category-left ul li .list-left .list-icon {
+    width: 9.083vw;
+}
+}
+
+@media screen and (max-width: 767px){
+
+    .ecommerce-section .tab-menu ul {
+        width: 100%;
+        overflow-x: auto;
+         overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+        display: flex;
+        justify-content: space-between;
+       gap: 5.823vw;
+    }
+    .ecommerce-section .tab-menu ul li a::before {
+         height: 0.556vw;
+         
+    }
+
+    .ecommerce-section .tab-menu ul li a {
+        font-size: 2.542vw;
+        padding: 2.563vw 0vw;
+    }
+ 
+.ecommerce-section .tab-menu ul li {
+    position: relative;
+    width: 50%;
+}
+ 
+ 
+.ecommerce-section .tab-menu ul::-webkit-scrollbar-thumb {
+     border-radius: 0px;
+   
+} 
+
+
+
+
+    .ecommerce-section .fixed-top {
+        top: 16.956vw;
+    }
+.finance-banner .finance-row {
+    display: flex;
+    gap: 4.813vw;
+    flex-direction: column-reverse;
+}
+.finance-banner .finance-img{
+    width: 100%;
+}
+.finance-banner .finance-content{
+    width: 100%;
+}
+.finance-content h1 {
+    font-size: 4.604vw;
+    position: relative;
+}
+.finance-content h1 .box {
+    position: static;
+    
+}
+.teaching-finance-section .teaching-row {
+    flex-direction: row-reverse;
+    flex-direction: column-reverse;
+}
+/* .teaching-finance-section .teaching-row {
+    flex-direction: column-reverse;
+} */
+.buy-section .buy-left{
+    width: 100%;
+}
+.buy-section .buy-right{
+    width: 100%;
+}
+.buy-section .buy-row{
+    flex-direction: column;
+}
+.stay-section .stay-row{
+    flex-direction: column;
+}
+.stay-section .stay-left{
+    width: 100%;
+}
+.stay-section .stay-right{
+    width: 100%;
+}
+/* .need-section .slick-slide {
+    padding-top: 7.438vw;
+     padding-bottom: 14.438vw;
+
+} */
+.need-section .slick-slide {
+    padding-top: 1.438vw;
+    padding-bottom: 13.438vw;
+
+}
+.need-section .slick-prev{
+    width: 6.604vw;
+    height: 6.604vw;
+    left: 40%;
+}
+.need-section .slick-next{
+    width: 6.604vw;
+    height: 6.604vw;
+    right: 40%;
+}
+ 
+.stay-section .stay-right .form-group {
+    width: 100%;
+    border-radius: 2.042vw;
+}
+.stay-section .stay-right .form-row {
+     gap: 3.563vw 2.083vw;
+   
+}
+.stay-section .stay-right .form-group .form-control {
+    height: 9.604vw;
+    font-size: 4.042vw;
+}
+.form-group-select .input-group select {
+    width: 11.125vw;
+    height: 9.604vw;
+    font-size: 4.042vw;
+}
+.form-group-select .form-group-input {
+    width: 86%;
+    padding-left: 0.781vw;
+}
+.form-group-select .form-group-input::before {
+    left: 1.165vw;
+}
+.need-box {
+   padding: 6.302vw;
+    
+}
+.need-box .number-box h3 {
+     font-size: 15.813vw;
+    
+}
+.need-box .number-box h3 span {
+     font-size: 5.25vw;
+   
+}
+.need-box h5 {
+    font-size: 3.938vw;
+}
+.stay-section {
+     padding-bottom: 10.167vw;
+}
+.helps-you-section .helps-you-row {
+    gap: 4.25vw;
+    flex-direction: column;
+}
+.helps-you-section .helps-you-left{
+    width: 100%;
+}
+.helps-you-section .helps-you-right{
+    width: 100%;
+}
+.helps-you-section .helps-you-left .helps-you-img iframe {
+    width: 100%;
+    min-height: 49.854vw;
+}
+.club-section .club-row {
+    gap: 7.417vw;
+    flex-direction: column;
+
+}
+.club-section .club-left{
+    width: 100%;
+}
+.club-left-bottom li{
+    width: 100%;
+}
+.club-left-bottom .club-left-box .club-left-list {
+    width: 9.604vw;
+    height: 9.604vw;
+}
+.team-section .slick-slide{
+    padding-top: 2.438vw;
+}
+.finance-banner {
+     padding-top: 0;
+}
+.club-section {
+     padding: 5.083vw 0px;
+    
+}
+.club-section .club-right{
+    width: 100%;
+}
+.buy-section .buy-left .buy-video {
+     min-height: 50.854vw;
+   
+}
+.buy-section .buy-left .buy-video iframe{
+    min-height: 50.854vw;
+}
+.stay-deligence-section .stay-right .stay-box {
+    gap: 3.51vw;
+   
+}
+.courses-tab-section .tab-courses .tab-courses-row {
+     flex-direction: column;
+}
+.courses-tab-section .tab-courses .tab-courses-content{
+    width: 100%;
+}
+ 
+ .courses-tab-section ul li {
+    width: 30vw;
+    line-height: 4.083vw;
+}
+
+.courses-tab-section ul li a {
+    font-size: 4.667vw;
+}
+.courses-tab-section ul::before {
+     width: 70%;
+     height: 0.2vw;
+      
+}
+.courses-tab-section .courses-dot-tab {
+    position: absolute;
+    top: -9px;
+    margin-top: 0;
+    width: 5.396vw;
+    height: 5.396vw;
+}
+.courses-tab-section .tab-courses .tab-courses-right{
+    width: 100%;
+}
+.counter-section .counter-box ul li{
+    width: 100%;
+}
+.counter-section .counter-box ul {
+    flex-wrap: wrap;
+    row-gap: 4.563vw;
+    padding: 15px;
+}
+.counter-section .counter-box ul li{
+border: none;
+
+}
+.counter-section .counter-box ul li h3 {
+    font-size: 5.125vw;
+   
+}
+
+.courses-tab-section .tab-courses .tab-courses-row {
+    gap: 5.458vw;
+}
+.modules-section .modules-row {
+    gap: 8.458vw;
+}
+.courses-tab-section .tab-courses .tab-courses-right-box .tab-courses-right-img {
+    height: 12.604vw;
+    width: 12.604vw;
+    
+}
+.courses-tab-section .tab-courses .tab-courses-right-box {
+    width: 48%;
+    padding: 15px;
+}
+.modules-section .modules-row {
+     flex-direction: column;
+}
+.modules-section .modules-left{
+    width: 100%;
+    padding: 15px;
+}
+.modules-section .modules-right{
+    width: 100%;
+}
+.modules-section .modules-right .course-card-bottom .course-card-img {
+    width: 20.021vw;
+    height: 20.021vw;
+    
+}
+.modules-section .modules-right .course-card-bottom{
+    padding: 15px;
+}
+.client-card .client-card-box{
+    padding: 15px;
+}
+.frequently-faq{
+    padding: 15px;
+}
+.grow-section .teaching-row {
+     gap: 3.458vw;
+    flex-direction: column;
+}
+.grow-section .grow-left{
+    width: 100%;
+}
+.grow-section .grow-right{
+    width: 100%;
+}
+.client-slider .slick-track {
+    margin-left: -40.771vw;
+}
+.client-card .client-card-box .client-card-img .quote-img {
+    width: 9.604vw;
+}
+.frequently-section{
+    padding-bottom: 6.604vw;
+}
+.modules-section .modules-left ol {
+    padding-left: 5.302vw;
+}
+.modules-section .modules-left ol li{
+    font-size: 3.642vw;
+}
+.included-answer .included-box .included-list .included-img {
+    width: 6.604vw;
+}
+.included-answer .included-box {
+    gap: 3.604vw;
+}
+.modules-scroll {
+    height: 86.667vw;
+}
+.modules-section .modules-right {
+     gap: 4.083vw;
+}
+.included-answer .included-box .included-list{
+    width: 100%;
+}
+.frequently-section ul li h3::before {
+    font-size: 4.302vw;
+}
+.client-section {
+   padding-top: 7.083vw;
+}
+.client-section .client-row {
+    gap: 2.729vw;
+}
+
+.courses-dot-small {
+    width: 2.563vw;
+    height: 2.563vw;
+}
+.stay-section .stay-right .stay-box{
+    padding: 15px;
+}
+ 
+ 
+.courses-tab-section ul {
+    gap: 3.563vw;
+    flex-direction: column;
+}
+.courses-tab-section ul li{
+    width: 100%;
+    position: relative;
+}
+.courses-tab-section ul li a .tab-courses {
+    margin-top: 24px;
+    padding-left: 55px;
+}
+
+.modules-section .modules-left .included-answer h3 {
+     padding: 1.781vw 0px;
+     
+}
+.frequently-section ul li{
+    padding: 3.042vw 0px;
+}
+.modules-section .modules-left .included-answer .answer span {
+    font-size: 3.433vw;
+}
+.courses-tab-section .tab-courses .tab-courses-right-row {
+    row-gap: 4.042vw;
+}
+ 
+.breadcrumb {
+    position: static;
+    
+}
+.breadcrumb li::before {
+    height: 1.525vw;
+    width: 1.525vw;
+    left: -16%;
+}
+.breadcrumb li a {
+    font-size: 2.538vw;
+}
+.breadcrumb li {
+    font-size: 2.538vw;
+}
+.modules-section .modules-right .course-card-bottom .course-card-img {
+    right: 6.396vw;
+    bottom: -3.542vw;
+}
+.courses-tab-section .tab-courses {
+    display: none !important;
+}
+.courses-tab-section ul li a .courses-active .tab-courses{
+    display: block !important;
+}
+.courses-tab-section .tab-courses.courses-active {
+    display: none !important;
+}
+.courses-tab-section ul li a .tab-courses{
+    display: none !important;
+}
+.courses-tab-section ul li a.courses-active .courses-active {
+    display: block !important;
+}
+.courses-tab-section ul::before{
+    display: none;
+}
+.course-card-top .course-header {
+    padding: 3.563vw 3.646vw;
+   
+}
+.modules-section {
+    padding-bottom: 4.813vw;
+    padding-top: 8.208vw;
+}
+.course-card-top .course-bottom {
+    padding: 7.042vw 3.646vw;
+    display: flex;
+    flex-direction: column;
+    gap: 5.102vw;
+}
+.counter-community .counter-box ul li {
+    width: 49%;
+    padding-top: 0vw;
+}
+.blog-listing-banner .blog-listing-row {
+    display: flex;
+    gap: 7.813vw;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+ 
+.blog-listing-banner .blog-listing-form {
+    width: 100%;
+    margin-top: 7.604vw;
+}
+.blog-listing-banner .blog-listing-content{
+    width: 100%;
+}
+.blog-listing-banner .blog-listing-content {
+    width: 100%;
+    margin-top: 2.604vw;
+}
+.blog-category-section .blog-category-row {
+    flex-direction: column;
+}
+.blog-category-section .blog-category-left{
+    width: 100%;
+}
+.blog-category-section .blog-category-right{
+    width: 100%;
+}
+ 
+.blog-category-section .blog-category-left ul li span {
+    width: 5.563vw;
+    height: 5.563vw;
+    
+}
+.blog-category-section .blog-category-left ul {
+    display: flex;
+    flex-direction: row;
+     overflow-y: scroll;
+    gap: 3.042vw;
+    padding: 1.521vw 0px;
+}
+
+.blog-category-section .blog-category-left ul li a {
+    font-size: 3.542vw;
+    width: max-content;
+    padding: 2.042vw;
+}
+.blog-category-section .blog-category-right .page-numbers img {
+    width: 7.083vw;
+}
+
+.blog-category-section .blog-category-right .page-numbers {
+    font-size: 22px;
+    gap: 18px;
+}
+.why-choose-section .why-choose-row {
+    flex-direction: column;
+}
+.why-choose-section .why-choose-left{
+    width: 100%;
+}
+.why-choose-section .why-choose-right{
+    width: 100%;
+}
+.blog-listing-banner{
+    padding-top: 0px;
+}
+.blog-listing-form .form-control {
+    width: 100%;
+    height: 100%;
+    font-size: 3.442vw;
+}
+.common-heading span{
+    font-size: 16px;
+}
+.common-heading h1 {
+    font-size: 22px;
+}
+.blog-category-right .explore-box{
+    width: 100%;
+}
+.blog-category-section .blog-category-left ul li .list-left .list-icon {
+    width: 40px;
+}
+.blog-category-section .blog-category-right .blog-category-right-row {
+     row-gap: 8.125vw;
+}
+.blog-category-section {
+    padding: 6.083vw 0px;
+}
+.community-tab-section .tab-community .tab-community-row{
+    flex-direction: column;
+}
+.community-tab-section .tab-community .tab-community-content{
+    width: 100%;
+}
+.community-tab-section .tab-community .tab-community-right{
+    width: 100%;
+}
+.courses-community .courses-slider-row {
+    flex-direction: column;
+}
+.courses-community .courses-slider-left{
+    width: 100%;
+}
+.courses-community .courses-slider-right{
+    width: 100%;
+}
+.meet-section .meet-slider-row {
+    flex-direction: column;
+}
+.meet-section .meet-slider-left{
+    width: 100%;
+}
+.meet-section .meet-slider-right{
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 639px){
+    .ecommerce-section .fixed-top {
+        top: 19.956vw;
+    }
+    .ecommerce-section .tab-menu ul {
+          gap: 4.823vw;
+    }
+    .ecommerce-section .tab-menu ul li a {
+        font-size: 3.542vw;
+        
+    }
+    .included-answer .included-box .included-list {
+         align-items: center;
+    }
+    .courses-community .courses-slider-row {
+        display: flex;
+        gap: 3.906vw;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .courses-community .courses-slider-left{
+        width: 100%;
+    }
+    .courses-community .courses-slider-right{
+        width: 100%;
+    }
+    .community-tab-section .tab-community .tab-community-row {
+         flex-direction: column;
+    }
+    .community-tab-section .tab-community .tab-community-content{
+        width: 100%;
+    }
+    .community-tab-section .tab-community .tab-community-right{
+        width: 100%;
+    }
+    .meet-section .meet-slider-row {
+         justify-content: center;
+        flex-direction: column;
+    }
+    .meet-section .meet-slider-left{
+        width: 100%;
+    }
+    .meet-section .meet-slider-right{
+        width: 100%;
+    }
+    .meet-section .common-heading span{
+        font-size: 18px;
+    }
+    .meet-slider-right-right ul {
+         gap: 16px;
+         
+    }
+    .meet-slider-right-right ul li svg {
+        width: 30px;
+    }
+    .community-tab-section ul li{
+        width: 100%;
+    }
+    .community-tab-section ul{
+        flex-direction: column;
+    }
+    .community-tab-section ul li a{
+        font-size: 16px;
+    }
+    .community-tab-section ul li {
+        width: 100%;
+        text-align: center;
+     
+    }
+    .community-tab-section ul li a {
+        font-size: 4.667vw;
+    }
+    .community-tab-section ul li a.community-active span{
+        display: none;
+    }
+     
+    .community-tab-section  .courses-dot-small {
+        width: 3.563vw;
+        height: 3.563vw;
+    }
+    .community-tab-section .courses-dot-tab {
+        width: 5.396vw;
+        height: 5.396vw;
+        margin: inherit;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .community-tab-section ul::before{
+        display: none;
+    }
+    .community-tab-section .tab-community.community-active {
+        display: none;
+    }
+    .community-tab-section ul li a.community-active .community-active {
+        display: block !important;
+    }
+    .community-tab-section ul li a .tab-community {
+         margin-top: 25px;
+    }
+    .blog-category-section .blog-category-right .blog-category-right-row {
+        row-gap: 30px;
+        flex-direction: column;
+    }
+    .blog-category-right .explore-box{
+        width: 100%;
+    }
+    .explore-content {
+        padding: 16px;
+        
+    }
+
+}
+
+@media screen and (max-width: 580px){
+.ecommerce-section .fixed-top {
+    top: 23.956vw;
+}
+
+
+.modules-section .modules-left .included-answer h3::before {
+     right: 2.01vw;
+    top: 3.122vw;
+ 
+}
+.frequently-section ul li {
+     gap: 4.042vw;
+}
+ 
+.breadcrumb {
+    padding-top: 12.625vw;
+}
+.courses-tab-section ul li a .tab-courses{
+    padding-left: 0px;
+}
+.courses-tab-section .courses-dot-tab {
+     top: 0;
+    
+}
+.stay-blog-listing .contact-form .form-row .form-group{
+    width: 100%;
+}
+.stay-blog-listing .contact-form .form-row {
+    justify-content: flex-start;
+    gap: 15px;
+}
+.blog-listings-form .form-group{
+    width: 100%;
+}
+.blog-listings-form .form-row {
+    display: flex;
+    gap: 2.604vw;
+    flex-direction: column;
+}
+}
